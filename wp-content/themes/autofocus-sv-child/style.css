@@ -1,0 +1,32 @@
+/*
+Theme Name: AutoFocus SV Child Theme
+Theme URI: 
+Description: A child theme of AutoFocus 2.0.2 for Skewed Visions, customizing a category page ("Catalogue") to use the grid layout. 
+Author: Sean Kelley-Pegg
+Template: autofocus
+Version: 2.0.2
+
+Since we don't rewrite any styles, just include the main stylesheet
+
+*/
+
+/* =Import Main Parent Styles
+-------------------------------------------------------------- */
+
+@import url("../autofocus/style.css");
+
+/* =Import Reset Styles
+-------------------------------------------------------------- */
+@import url("../autofocus/css/style.reset.css"); 
+
+/* =Import Layout Styles
+-------------------------------------------------------------- */
+@import url("../autofocus/css/style.layout.css"); 
+
+/* =Import Typographic
+-------------------------------------------------------------- */
+@import url("../autofocus/css/style.typography.css"); 
+
+/* =Import Global Styles
+-------------------------------------------------------------- */
+@import url("../autofocus/css/style.globals.css"); 

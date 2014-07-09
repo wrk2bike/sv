@@ -1,0 +1,26 @@
+*** AutoFocus 2.0 Changelog ***
+
+Last edited on 2011.07.15 by Allan Cole
+
+2.0.2	Date: 7-15-2011
+	* Fixed input text color: http://gsfn.us/t/2cmui 
+	* Fixed Post Title Option "Post Title only" so it displays the Excerpt in the default view
+	* Added Fixes for IE9 jQueri UI issue: http://gsfn.us/t/2cn40
+	* Added the Archives Page Template 
+	* Changes set_post_thumbnail_size to 188px x 188px
+	* Fixed Archive Image Layout CSS
+	* Fixed issue where some logged in admins couldnÍt edit posts on Front Page
+	* Fixed oEmbed display area size 
+	* Fixed <object> CSS on style.css to remove padding-bottom
+	* Removed some old references to Thematic
+
+2011.07.13 - version 2.0.1
+--------------------------
+	* Changed default settings for Footer to include Blog Title
+	* Fixed reset image position button
+	* Fixed font-size for Comments, Reply and Browse
+
+2011.07.13 - version 2.0
+--------------------------
+	* Initial release! 
+	* Recoded almost entirely from scratch.
