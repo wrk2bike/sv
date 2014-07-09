@@ -1,0 +1,14 @@
+._git
+._htaccess
+.tm_properties
+__wp-config.php
+_wp-config.php
+wp-config.php
+wp-content/uploads
+.htaccess
+.DS_Store
+wp-content/w3tc/objectcache
+wp-content/w3tc/dbcache
+wp-content/w3tc/pgcache
+wp-content/w3tc/cache
+config/
